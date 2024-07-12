@@ -18,6 +18,9 @@
         <module>fox-club-infra</module>
         <module>fox-club-starter</module>
         <module>fox-club-subject-api</module>
+        <module>fox-club-application/fox-club-application-controller</module>
+        <module>fox-club-application/fox-club-application-job</module>
+        <module>fox-club-application/fox-club-application-mq</module>
     </modules>
 
     <dependencies>
